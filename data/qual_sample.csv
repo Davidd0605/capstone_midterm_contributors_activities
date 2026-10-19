@@ -1,0 +1,18 @@
+sample,category,pr_number,pr_login,lead_days,pr_title,url
+stratified,Frequent,133953,princepereira,3.33287037037037,Fix ClusterIP load balancer disappearing when InternalTrafficPolicy: Local is set.,https://github.com/kubernetes/kubernetes/pull/133953
+stratified,Frequent,129672,carlory,1.4145023148148148,add a comment to features.Flexvolumes,https://github.com/kubernetes/kubernetes/pull/129672
+stratified,Frequent,134318,xigang,3.2061458333333333,disruption: remove unused pdb parameter from getExpectedScale method,https://github.com/kubernetes/kubernetes/pull/134318
+stratified,Frequent,134663,p0lyn0mial,0.4769675925925926,client-go/typed/fake: expose IsWatchListSemanticsUnSupported,https://github.com/kubernetes/kubernetes/pull/134663
+stratified,Occasional,133137,ivanvc,0.09457175925925926,Build etcd v3.6.3 image,https://github.com/kubernetes/kubernetes/pull/133137
+stratified,Occasional,129650,Adarsh-verma-14,0.29606481481481484,add missing KEP link for AuthorizeNodeWithSelectors feature gate,https://github.com/kubernetes/kubernetes/pull/129650
+stratified,Occasional,130859,hakuna-matatah,3.9333217592592593,Optimize DS Controller Performance: Reduce Work Duration Time & Minimize Cache Locking.,https://github.com/kubernetes/kubernetes/pull/130859
+stratified,Occasional,131321,karlkfi,9.095520833333333,chore: Add VeryShortWatchError typed error,https://github.com/kubernetes/kubernetes/pull/131321
+stratified,Newcomer,134966,shwetha-s-poojary,48.717650462962965,Enable notimestamp rule for Kube API Linter,https://github.com/kubernetes/kubernetes/pull/134966
+stratified,Newcomer,131420,simonfogliato,11.149953703703703,Fix flake in test when run with stress on pkg/kubelet/kuberuntime TestTerminationOrderingSidecarsInReverseOrder.,https://github.com/kubernetes/kubernetes/pull/131420
+stratified,Newcomer,134022,aditigupta96,5.246400462962963,refactor(controller): Use context-aware WaitForNamedCacheSync in resourcequota and HPA tests,https://github.com/kubernetes/kubernetes/pull/134022
+stratified,Newcomer,132680,milesbxf,6.048101851851852,Don't log irrelevant zone hints message on no endpoints,https://github.com/kubernetes/kubernetes/pull/132680
+targeted,Newcomer,128184,cupnes,1042.750949074074,KEP-4049: Add storage capacity scoring to VolumeBinding plugin,https://github.com/kubernetes/kubernetes/pull/128184
+targeted,Newcomer,129574,p-shah256,397.34202546296297,Separate SeparateDiskTests from eviction,https://github.com/kubernetes/kubernetes/pull/129574
+targeted,Newcomer,129664,hkttty2009,341.9100925925926,Fix VolumeAttachment cleanup when AttachRequired changes,https://github.com/kubernetes/kubernetes/pull/129664
+targeted,Newcomer,127887,soma00333,286.58787037037035,kubelet: Support contextual logging,https://github.com/kubernetes/kubernetes/pull/127887
+targeted,Newcomer,124300,walker-tom,279.2571875,Update EnvFromSource.Prefix doc to mention Secret as well as ConfigMap,https://github.com/kubernetes/kubernetes/pull/124300
